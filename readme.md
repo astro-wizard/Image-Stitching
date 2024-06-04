@@ -9,6 +9,9 @@ This script is designed to stitch together a series of images into a single pano
 ![Input Image](images/WIN_20240604_12_26_57_Pro.jpg)
 ![Input Image](images/WIN_20240604_12_27_00_Pro.jpg)
 
+**Output Image**
+![Output Image](stitchedOutputProcessed.png)
+
 
 Usage
 -----
@@ -26,8 +29,7 @@ Usage
    - Cropping the stitched image to the minimum rectangle.
 5. The final processed image will be saved as "stitchedOutputProcessed.png".
 
-**Output Image**
-![Output Image](stitchedOutputProcessed.png)
+
 
 Requirements
 ------------
