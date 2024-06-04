@@ -4,7 +4,9 @@ README
 This script is designed to stitch together a series of images into a single panoramic image.
 
 **Input Image**
-![Input Image](images\WIN_20240604_12_26_55_Pro.jpg)
+![Input Image](images/WIN_20240604_12_26_55_Pro.jpg)
+![Input Image](images/WIN_20240604_12_27_00_Pro.jpg)
+![Input Image](images/WIN_20240604_12_27_57_Pro.jpg)
 
 Usage
 -----
