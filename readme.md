@@ -1,4 +1,4 @@
-README
+Image Stitching 
 ======
 
 This script is designed to stitch together a series of images into a single panoramic image.
